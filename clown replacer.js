@@ -2,7 +2,7 @@
 // @name         Clown Replacer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  you can change this one but why bother really . wan sigma <3
 // @author       You
 // @match        https://www.tumblr.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tumblr.com
