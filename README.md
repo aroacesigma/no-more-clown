@@ -1,6 +1,9 @@
 # no-more-clown
 
 ok so to use this install tampermonkey, then install a file of your choice in tampermonkey .  
+NOTE: this only works like half the time . idk if its messing with dashboard unfucker maybe ? but either way . you may have to reload a few times but if you arent particularly bothered by the clown its fine i guess .
+
+HOWEVER, if you are actually bothered by the clown, please just block element with ublock origin rather than trying to use this !
 
 TO INSTALL:
 - literally just go into one of my files, copy all of the text, go to add script in tampermonkey, paste the whole thing in . tadaaaa .
