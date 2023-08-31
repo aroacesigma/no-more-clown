@@ -2,7 +2,7 @@
 // @name         The Better Clown
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  nikolai bsd my beloved
 // @author       You
 // @match        https://www.tumblr.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tumblr.com
